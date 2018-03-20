@@ -12,7 +12,6 @@ Here is features that teams (will) develop(ed) for you:
 - [ ] Chat
 - [ ] Account
 
------------------------------------------------------------
 ## Contributor
 
 - [latelt-j](https://github.com/latelt-j/)
